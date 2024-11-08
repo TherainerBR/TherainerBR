@@ -1,4 +1,4 @@
-<h2 align="center">Olá! eu sou Davi Silva Ramos e sou gay!</h2>
+<h2 align="center">Olá! eu sou Davi Silva Ramos!</h2>
 
 ###
 
